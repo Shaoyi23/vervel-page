@@ -7,16 +7,16 @@ import Providers from "./providers";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 
 export const metadata: Metadata = {
-  title: "Vercel教程项目",
-  description: "Vercel教程项目",
-  generator: "Vercel教程项目",
+  title: "Vercel项目",
+  description: "Vercel项目",
+  generator: "Vercel项目",
   keywords: ["Vercel", "教程", "项目"],
   authors: [{ name: "Vercel", url: "https://vercel.com" }],
   creator: "Vercel",
   publisher: "Vercel",
   openGraph: {
-    title: "Vercel教程项目",
-    description: "Vercel教程项目",
+    title: "Vercel项目",
+    description: "Vercel项目",
   },
   icons: {
     icon: "/favicon.ico",
